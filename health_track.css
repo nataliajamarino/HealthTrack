@@ -1,0 +1,98 @@
+
+body {
+    color:#FFFAFA;
+    background-color:rgba(8, 8, 8, 0.849);
+
+}
+
+.navbar-brand {
+    color: linear-gradient(to left, rgb(247, 65, 238), rgb(157, 72, 226),orange);
+}
+
+header {
+    color:#FFFAFA;
+    background-color:#2b2d42; 
+}
+
+.icon-hover:hover, a:hover {
+    background: linear-gradient(to left, rgb(247, 65, 238), rgb(157, 72, 226),orange);
+}
+
+a:visited, a:active, a {
+    color: white;
+}
+
+.progress-bar {
+   
+    background: linear-gradient(to left, rgb(247, 65, 238), rgb(157, 72, 226),orange);
+    background-size: 1rem-1rem
+}
+.nav-color {
+    background-color: #000000e7; 
+}
+
+.form-control, .form-control[readonly] {
+    color:white;
+    background-color:#0d0b0f59; 
+}
+.btn-primary{
+    background: linear-gradient(to left, rgb(247, 65, 238), rgb(157, 72, 226),orange);
+    border-color:rgb(245, 243, 243);
+}
+input:focus {
+    background-color:black;
+}
+
+.cab-color {
+    background: linear-gradient(to left, rgb(247, 65, 238), rgb(157, 72, 226),orange);
+}
+#fontChange {
+    text-align: left;
+}
+.progress {
+    height:3rem;
+    margin-bottom: 25px;
+    background-color: #000;
+}
+#sizeLogo {
+    height:30px ;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    background-color: rgba(8, 8, 8, 0.849);
+}
+
+.img-fill {
+    height: 100;
+}
+
+.img-login, .login-wrap {
+    width: 50%;
+}
+
+.img-login {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    vertical-align: middle;
+    border-style: none; 
+    position: relative;
+}
+
+.wrap {
+    width: 100%;
+    overflow: hidden;
+    background: black;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 10px 34px -15px rgb(0 0 0 / 24%);
+    -moz-box-shadow: 0px 10px 34px -15px rgba(0, 0, 0, 0.24);
+    box-shadow: 0px 10px 34px -15px rgb(0 0 0 / 24%);
+}
+
+.login-wrap {
+    position: relative;
+}
